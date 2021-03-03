@@ -1,0 +1,6 @@
+suites:
+    fulu_suite:
+        namespace: Fulu
+        psr4_prefix: Fulu
+formatter.name: pretty
+
